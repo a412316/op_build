@@ -19,3 +19,4 @@ echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
+git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
